@@ -1,0 +1,5 @@
+tqdm
+tldextract
+sslyze==2.1.4
+pandas
+scikit-learn==1.0
