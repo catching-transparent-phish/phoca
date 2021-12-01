@@ -1,5 +1,17 @@
 # PHOCA
-Tool to analyze and classify websites as originating from a MITM phishing toolkit or not.
+Tool to analyze and classify websites as originating from a MITM phishing toolkit or not. 
+Supplementary material for CCS '21 paper ["Catching Transparent Phish: Analyzing and Detecting MITM Phishing Toolkits"](https://catching-transparent-phish.github.io/catching_transparent_phish.pdf).
+
+Citation:
+
+```
+@article{kondracki2021catching,
+    title={Catching Transparent Phish: Analyzing and Detecting MITM Phishing Toolkits},
+    author={Kondracki, Brian and Azad, Babak Amin and Starov, Oleksii and Nikiforakis, Nick},
+    booktitle={ACM Conference on Computer and Communications Security (CCS)},
+    year={2021}
+}
+```
 
 ## Requirements
 * python3.7
